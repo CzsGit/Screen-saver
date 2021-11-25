@@ -1,3 +1,3 @@
-﻿恶搞锁屏小程序
-建议使用前先看看代码(●ˇ∀ˇ●)
-Delphi+pascal开发。
+Parody lock screen program
+It is recommended to look at the code before using(●ˇ∀ˇ●)
+Based on Delphi and PASCAL development.
